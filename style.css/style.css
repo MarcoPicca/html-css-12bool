@@ -19,6 +19,7 @@
 
 .row-nested{
     width: 95%;
+    height: 65%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
